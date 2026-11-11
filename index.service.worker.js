@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794406635|32344905';
+const CACHE_VERSION = '1794432626|34109902';
 /** @type {string} */
 const CACHE_PREFIX = 'Bernard the Forg-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
